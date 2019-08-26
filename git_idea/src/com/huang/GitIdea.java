@@ -8,9 +8,11 @@ public class GitIdea {
         System.out.println("gao");
         System.out.println("che");
         System.out.println("yu");
+        //你是谁
     }
     public  void  test(){
         int i=1;
         System.out.println(i++);
+        int v=50;
     }
 }
