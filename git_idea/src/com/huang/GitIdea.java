@@ -14,6 +14,5 @@ public class GitIdea {
         int i=1;
         System.out.println(i++);
         int v=50;
-        //我是仙
     }
 }
