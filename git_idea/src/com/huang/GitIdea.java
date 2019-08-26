@@ -9,4 +9,8 @@ public class GitIdea {
         System.out.println("che");
         System.out.println("yu");
     }
+    public  void  test(){
+        int i=1;
+        System.out.println(i++);
+    }
 }
